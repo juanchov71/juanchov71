@@ -26,7 +26,7 @@ juanchov71@github
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="rigth">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,docker,git,kubernetes,linux,py" />
   </a>
