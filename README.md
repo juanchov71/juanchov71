@@ -6,15 +6,11 @@
 
 juanchov71@github
 -------------------------
-💻 Studying to become a Full Stack Developer and AWS Cloud Engineer.\
+💻 Studying to become a DevOps and Azure Cloud Engineer.\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 📚 Software Development student at Uniminuto University in Colombia.\
-📝 Strong interest in Full Stack Development and AWS Cloud Engineering.\
-🔭 Working on projects for a public company.\
-🌱 Learning about programming languages and AWS.\
-🌟 Languages: JavaScript, Python.\
-💖 I love soccer, F1, video games, and money.\
-🎵 I listen to hip-hop, trap, and jazz.
+📝 Strong interest in DevOps and Azure Cloud Engineering.\
+🌱 Learning about DevOps and Azure.\
 
 <span align="center">
   <span>
@@ -32,7 +28,7 @@ juanchov71@github
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cpp,css,dart,docker,django,flutter,git,github,html,js,mysql,nodejs,php,postgres,py,react,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,kubernetes,linux,py" />
   </a>
 </p>
 
