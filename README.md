@@ -10,7 +10,7 @@ juanchov71@github
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 📚 Software Development student at Uniminuto University in Colombia.\
 📝 Strong interest in DevOps and Azure Cloud Engineering.\
-🌱 Learning about DevOps and Azure.\
+🌱 Learning about DevOps and Azure.
 
 <span align="center">
   <span>
@@ -41,10 +41,21 @@ juanchov71@github
 </div>
 
 <!--icons and links-->
+
 <p align="center">
-<a href="https://twitter.com/juanchov71" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/juanchov71" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="mailto:jevn2004@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="50" width="50" /></a>
-<a href="https://github.com/juanchov71" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github/181717" alt="github" height="50" width="50" /></a>
-  
+  <a href="https://twitter.com/juanchov71" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/juanchov71" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanchov71" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/juanchov71" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:jevn2004@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
