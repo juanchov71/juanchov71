@@ -6,11 +6,11 @@
 
 juanchov71@github
 -------------------------
-💻 Studying to become a DevOps and Azure Cloud Engineer.\
+💻 Studying to become a Data Scientist and Azure Cloud Engineer.\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 📚 Software Development student at Uniminuto University in Colombia.\
-📝 Strong interest in DevOps and Azure Cloud Engineering.\
-🌱 Learning about DevOps and Azure.
+📝 Strong interest in Data Science, data analysis, and Azure cloud technologies.\
+🌱 My name is Juan Esteban, and I am from Colombia.
 
 <span align="center">
   <span>
@@ -28,7 +28,7 @@ juanchov71@github
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,kubernetes,linux,py" />
+    <img src="https://skillicons.dev/icons?i=azure,py,git,mysql,ai" />
   </a>
 </p>
 
