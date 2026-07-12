@@ -28,7 +28,7 @@ juanchov71@github
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,py,git,mysql,ai" />
+    <img src="https://skillicons.dev/icons?i=azure,py,git,mysql,vscode,github" />
   </a>
 </p>
 
